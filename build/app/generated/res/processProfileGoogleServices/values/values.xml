@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">682676996856</string>
+    <string name="google_api_key" translatable="false">AIzaSyA_AZYTObKQw93te7TpawWAgkz_LIFzCzI</string>
+    <string name="google_app_id" translatable="false">1:682676996856:android:0bb0582b63ede4439b090d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_AZYTObKQw93te7TpawWAgkz_LIFzCzI</string>
+    <string name="google_storage_bucket" translatable="false">findtrainerv2.firebasestorage.app</string>
+    <string name="project_id" translatable="false">findtrainerv2</string>
+</resources>
